@@ -5,14 +5,14 @@ Este projeto teve como objetivo construir uma aplicação web desenvolvida em HT
 **<h2>Foram utilizadas as seguintes funcionalidades</h2>**
 
 
--> Página principal com listagem de clubes e jogadores.
+➡️ Página principal com listagem de clubes e jogadores.
 
--> Adicionar novos jogadores.
+➡️ Adicionar novos jogadores.
 
--> Editar informações dos jogadores através de uma janela modal.
+➡️ Editar informações dos jogadores através de uma janela modal.
 
--> Eliminar jogadores da base de dados.
+➡️ Eliminar jogadores da base de dados.
 
--> Atualização automática da informação apresentada.
+➡️ Atualização automática da informação apresentada.
 
--> Interface organizada para facilitar a gestão dos dados.
+➡️ Interface organizada para facilitar a gestão dos dados.
