@@ -5,6 +5,7 @@ Este projeto teve como objetivo construir uma aplicação web desenvolvida em HT
 #Foram utilizadas as seguintes funcionalidades
 
 <h1> 🚀 Funcionalidades </h1>
+
 -> Página principal com listagem de clubes e jogadores.
 
 -> Adicionar novos jogadores.
