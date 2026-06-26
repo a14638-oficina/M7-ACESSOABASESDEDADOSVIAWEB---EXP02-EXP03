@@ -8,6 +8,7 @@ Este projeto teve como objetivo construir uma aplicação web desenvolvida em HT
 
 -> Página principal com listagem de clubes e jogadores.
 
+
 -> Adicionar novos jogadores.
 
 -> Editar informações dos jogadores através de uma janela modal.
